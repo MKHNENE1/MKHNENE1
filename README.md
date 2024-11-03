@@ -86,6 +86,12 @@ While front-end development is my primary focus, I also bring robust back-end sk
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MKHNENE1&show_icons=true&count_private=true&hide_border=true&theme=react" align="right" style="width: 48%;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKHNENE1&hide_border=true&layout=compact&theme=react" align="left" style="width: 48%" />
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKHNENE1&hide_border=true&layout=compact&theme=react" style="width: 49%; max-width: 400px; min-width: 300px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MKHNENE1&show_icons=true&count_private=true&hide_border=true&theme=react" style="width: 49%; max-width: 400px; min-width: 300px;" />
+  
+</div>
