@@ -80,16 +80,3 @@ While front-end development is my primary focus, I also bring robust back-end sk
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKHNENE1&hide_border=true&layout=compact&theme=react" style="width: 49%; max-width: 400px; min-width: 300px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MKHNENE1&show_icons=true&count_private=true&hide_border=true&theme=react" style="width: 49%; max-width: 400px; min-width: 300px;" />
-  
-</div>
